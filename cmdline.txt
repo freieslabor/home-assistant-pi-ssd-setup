@@ -1,0 +1,1 @@
+console=serial0,115200 console=tty1 fsck.repair=yes quiet loglevel=7 rootwait root=PARTUUID=0ee3e8a8-02
